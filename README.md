@@ -2,7 +2,7 @@
 
 # 👾 Victor Marinho
 
-💻 Tecnologia & Desenvolvimento (em evolução) | 📊 Dados & Performance | 🎮 Gamer  
+💻 Tecnologia & Desenvolvimento *(em evolução)* | 📊 Dados & Performance | 🎮 Gamer  
 📍 São Paulo - Brasil  
 
 <img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" />
@@ -23,7 +23,7 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ## 🏆 Destaques do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -31,9 +31,17 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />
@@ -41,7 +49,7 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 
 ---
 
-## 🚀 Tech Stack (em evolução)
+## 🚀 Tech Stack *(em evolução)*
 
 ### 💻 Desenvolvimento & Linguagens
 <div style="display: inline_block"><br>
@@ -64,17 +72,27 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 
 ---
 
-## 💼 Portfólio de Projetos (em evolução 🚀)
+## 💼 Portfólio de Projetos *(em evolução 🚀)*
 
-Este repositório será meu portfólio de projetos desenvolvidos durante meus estudos em programação.
+Este repositório representa minha jornada de aprendizado em programação, com projetos práticos voltados ao desenvolvimento de habilidades técnicas e construção de portfólio profissional.
 
-### 📌 Projetos em Desenvolvimento
-- 🧠 Sistema básico em HTML, CSS e JavaScript *(em evolução)*
-- 📊 Dashboard de dados e indicadores *(em evolução)*
-- ⚙️ Automação de relatórios *(em evolução)*
-- 🎮 Mini game em JavaScript *(em breve)*
+---
 
-> 💡 Esta seção será atualizada conforme novos projetos forem criados.
+## 🎮 Projeto Destaque: Snake Game em JavaScript
+
+Desenvolvi um mini game clássico da cobrinha utilizando **HTML, CSS e JavaScript**, com foco em lógica de programação, interatividade e experiência do usuário.
+
+✨ Funcionalidades:
+- 🐍 Movimento da cobra com colisão realista
+- 🍎 Sistema de pontuação e recorde
+- ⚡ Aumento progressivo de velocidade
+- 🎨 Visual moderno com tema roxo
+- 🕹️ Botão de iniciar e reiniciar
+
+👉 **Jogue agora o Snake Game:**  
+🎮 https://victormarinho30.github.io/snake-game/
+
+
 
 ---
 
@@ -88,14 +106,6 @@ Este repositório será meu portfólio de projetos desenvolvidos durante meus es
 - 🔜 Desenvolvimento de Sistemas
 
 📈 Evoluindo passo a passo na área de tecnologia.
-
----
-
-## 🎮 Mini Game (em breve)
-
-🎯 Em breve, você poderá jogar meu mini game desenvolvido em JavaScript:
-
-👉 *(link será adicionado aqui)*
 
 ---
 
