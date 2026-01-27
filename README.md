@@ -2,8 +2,10 @@
 
 # 👾 Victor Marinho
 
-💻 Desenvolvedor | 📊 Dados & Performance | 🎮 Gamer & Streamer  
+💻 Tecnologia & Desenvolvimento (em evolução) | 📊 Dados & Performance | 🎮 Gamer  
 📍 São Paulo - Brasil  
+
+<img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" />
 
 </div>
 
@@ -11,38 +13,89 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia, dados e games.  
-Atuo com análise de performance, forecast, monitoramento de indicadores e automação de processos.  
-Sempre buscando evoluir como desenvolvedor e criar soluções inteligentes com código e dados.
+Sou entusiasta de tecnologia, dados e games.  
+Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e tratativas operacionais.
+
+🚀 Estou iniciando minha jornada em desenvolvimento de sistemas, com foco em aprendizado contínuo e construção de projetos práticos para meu portfólio profissional.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Destaques do GitHub
 
 <div align="center">
-  <a href="https://github.com/victormarinho30">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## 📊 Estatísticas do GitHub
 
-### 💻 Linguagens & Web
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 </div>
 
-### 📊 Dados & Ferramentas
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Tech Stack (em evolução)
+
+### 💻 Desenvolvimento & Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+🧩 *Estudos em andamento na área de desenvolvimento de sistemas.*
+
+---
+
+### 📊 Dados & Performance
+
 - Excel Avançado
-- Forecast & KPIs
-- Power BI (em evolução)
-- SQL (em evolução)
-- Automação de processos
+- Forecast e KPIs
+- Monitoramento de indicadores
+- Power BI *(em evolução)*
+- SQL *(em evolução)*
+
+---
+
+## 💼 Portfólio de Projetos (em evolução 🚀)
+
+Este repositório será meu portfólio de projetos desenvolvidos durante meus estudos em programação.
+
+### 📌 Projetos em Desenvolvimento
+- 🧠 Sistema básico em HTML, CSS e JavaScript *(em evolução)*
+- 📊 Dashboard de dados e indicadores *(em evolução)*
+- ⚙️ Automação de relatórios *(em evolução)*
+- 🎮 Mini game em JavaScript *(em breve)*
+
+> 💡 Esta seção será atualizada conforme novos projetos forem criados.
+
+---
+
+## 🛤️ Roadmap de Aprendizado
+
+- ✅ Lógica de Programação *(em evolução)*
+- ✅ HTML5 e CSS3 *(em evolução)*
+- 🔄 JavaScript *(em evolução)*
+- 🔜 SQL e Banco de Dados
+- 🔜 Python
+- 🔜 Desenvolvimento de Sistemas
+
+📈 Evoluindo passo a passo na área de tecnologia.
+
+---
+
+## 🎮 Mini Game (em breve)
+
+🎯 Em breve, você poderá jogar meu mini game desenvolvido em JavaScript:
+
+👉 *(link será adicionado aqui)*
 
 ---
 
@@ -58,7 +111,7 @@ Sempre buscando evoluir como desenvolvedor e criar soluções inteligentes com c
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="mailto:victornikolas@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/victor-nikolas-souza-marinho-a8b62328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -67,16 +120,8 @@ Sempre buscando evoluir como desenvolvedor e criar soluções inteligentes com c
 
 ---
 
-## 🐍 Atividade no GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/victormarinho30/victormarinho30/output/github-contribution-grid-snake.svg">
-</div>
-
----
-
 <div align="center">
 
-✨ *Transformando dados e código em soluções reais.*
+💜 *Construindo minha jornada em tecnologia, um projeto de cada vez.*
 
 </div>
