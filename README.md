@@ -5,8 +5,7 @@
  Tecnologia & Desenvolvimento *(em evolução)* |  Dados & Performance |  Gamer  
  São Paulo - Brasil  
 
-<img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" 
-/>
+<img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" />
 
 </div>
 
@@ -24,7 +23,7 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ##  Destaques do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -32,20 +31,15 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ##  Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />   
-</div>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />   
+  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" alt="Streak Stats" />   
 </div>
 
 ---
@@ -93,8 +87,6 @@ Desenvolvi um mini game clássico da cobrinha utilizando **HTML, CSS e JavaScrip
  **Jogue agora o Snake Game:**
  https://victormarinho30.github.io/snake-game/
 
-
-
 ---
 
 ##  Roadmap de Aprendizado
@@ -116,16 +108,16 @@ Desenvolvi um mini game clássico da cobrinha utilizando **HTML, CSS e JavaScrip
 
 <div align="center">
   <a href="https://instagram.com/victornikolas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discord.gg/Nick3003#8811" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">   
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">   
   </a>
   <a href="mailto:victornikolas@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook"> 
   </a>
   <a href="https://www.linkedin.com/in/victor-nikolas-souza-marinho-a8b62328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
   </a>
 </div>
 
