@@ -5,7 +5,7 @@
  Tecnologia & Desenvolvimento *(em evolução)* |  Dados & Performance |  Gamer  
  São Paulo - Brasil  
 
-<img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=victormarinho30&label=Visitors&color=8b5cf6&style=for-the-badge" alt="Visitors" />
 
 </div>
 
@@ -23,7 +23,7 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ##  Destaques do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=victormarinho30&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -31,15 +31,15 @@ Atualmente atuo com análise de performance, forecast, monitoramento de KPIs e t
 ##  Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=victormarinho30&show_icons=true&theme=midnight-purple&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+  <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarinho30&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" alt="Streak Stats" />   
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=victormarinho30&theme=midnight-purple&hide_border=true" />
 </div>
 
 ---
